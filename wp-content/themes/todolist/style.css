@@ -1,0 +1,18 @@
+/*
+Theme Name: TodoList
+Text Domain: TodoList
+Version: 1.0
+Description: Fancy left sidebar theme
+Tags: left-sidebar, responsive, fancy
+Author: Ho Ngoc Bao Long
+Author URI: https://github.com/kemmo47
+*/
+
+.container .d-flex .mr-3{
+    color: red;
+    text-decoration: line-through;
+}
+
+.container .d-flex ion-icon{
+    color: blue;
+}
